@@ -1,7 +1,7 @@
 #!/bin/sh
 
 TARGET=$1
-UBOOT_VERSION=2015.07
+UBOOT_VERSION=2015.10
 
 case "$TARGET" in
     rpi_2)
